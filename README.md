@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @zecalopess
-- 👀 Sou interessado em: Astronomia, Filosofia e Física. Além de ser interessado em ajudar em projetos de média escala.
+- 👀 I'm interested in: Astronomy, Philosophy and Physics. In addition to being interested in helping with medium-scale projects.
 - 🌱 I’m currently learning: Frontend
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sou alguém que está sempre a procura de desafios e melhoras profissionais.
-- ⚡Hobby: Ver animes e jogar no pc.
+- ⚡ Fun fact: I am someone who is always looking for challenges and professional improvements.
+- ⚡Hobby:Watch anime, Netflix and play on the PC. In addition to always keeping my physical exercise routine up to date (although this is very rare).
 
 <!---
 brotherZeca/brotherZeca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
